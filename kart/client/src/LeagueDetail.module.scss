@@ -1,0 +1,40 @@
+.title {
+  text-align: center;
+  margin: 3rem;
+  color: #000000;
+}
+.first{
+  text-align: center;
+  margin: 2rem;
+  color: gold;
+  font-family: TmonMonsori, sans-serif;
+}
+.second{
+  text-align: center;
+  margin: 2rem;
+  color: silver;
+}
+.third{
+  text-align: center;
+  margin: 2rem;
+  color: brown;
+}
+.list{
+  text-align: center;
+  margin-top: 5rem;
+}
+.table{
+  text-align: center;
+  margin: auto;
+}
+.name{
+  margin: 0.5rem;
+}
+.table2{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-width: 30rem;
+  justify-content: center;
+  margin: auto;
+}

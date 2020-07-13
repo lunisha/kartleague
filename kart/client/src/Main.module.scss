@@ -1,0 +1,35 @@
+.title {
+  text-align: center;
+  margin: 3rem;
+  color: #00458B;
+  font-family: TmonMonsori, sans-serif;
+}
+.notice {
+  text-align: center;
+  margin: 1rem;
+  color: #000000;
+  font-family: TmonMonsori, sans-serif;
+}
+
+.actions {
+  display: flex;
+  margin-top: 200px;
+  
+  .actionButton {
+    flex-grow: 1;
+    display: block;
+    text-decoration: none;
+
+    button {
+      display: block;
+      color: #99DDFF;
+      background-color: #00458B;
+      width: 20vw;
+      height: 30vh;
+      margin: 0 auto;
+      font-size: 2rem;
+      border: none;
+    }
+  }
+}
+

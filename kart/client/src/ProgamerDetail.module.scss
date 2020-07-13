@@ -1,0 +1,35 @@
+.name{
+  text-align: center;
+  margin: 3rem;
+  color: #3794b1;
+  font-family: TmonMonsori, sans-serif;
+}
+.text{
+  
+  text-align: center;
+  .span{
+    margin: auto;
+  }
+
+}
+.table{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-width: 30rem;
+  justify-content: center;
+  margin: auto;
+}
+.actionButton{
+  display: block;
+  margin-top: 0.3rem;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(0, 0, 0);
+  background-color: rgb(75, 218, 218);
+  border: none;
+  text-align: center;
+  width: 5vw;
+  height: 5vh;
+  text-decoration: none;
+}

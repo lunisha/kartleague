@@ -1,0 +1,23 @@
+.root{
+  display: flex;
+  justify-content: flex-end;
+  margin: 0.5rem;
+}
+
+
+.inputField {
+  display: block;
+  margin: 0.2rem;
+  border-radius: 5px;
+  border-width: 0.5px;
+  text-align: left;
+}
+
+.actionButton {
+  display: block;
+  margin: 0.2rem;    
+  background-color: aquamarine;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+}
